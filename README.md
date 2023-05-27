@@ -12,6 +12,7 @@
 [![Discord chat](https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=5865F2)](https://the-algorithms.com/discord/)
 [![Donate](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/TheAlgorithms/donate)
 
+
 ## Overview
 
 The repository is a collection of open-source implementations of a variety of algorithms implemented in C and licensed under [GPLv3 License](https://github.com/TheAlgorithms/C/blob/master/LICENSE). The algorithms span a variety of topics from computer science, mathematics and statistics, data science, machine learning, engineering, etc.. The implementations and their associated documentations are meant to provide a learning resource for educators and students. Hence, one may find more than one implementation for the same objective but using different algorithm strategies and optimizations.
